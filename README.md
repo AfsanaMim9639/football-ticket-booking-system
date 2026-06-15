@@ -4,7 +4,7 @@
 This project is a simplified database design and SQL query assignment for a Football Ticket Booking System. It covers ERD design (1-to-many and many-to-1 relationships), primary/foreign keys, and intermediate-to-advanced SQL queries (JOINs, subqueries, aggregations, pattern matching, null handling, and pagination).
 
 ## ERD Diagram
-[View ERD on draw.io](PASTE_YOUR_GOOGLE_DRIVE_SHARE_LINK_HERE)
+[View ERD on draw.io](https://drive.google.com/file/d/1xQpPqMHLfts2pOy4BWG8GbljbMkdcKld/view?usp=sharing)
 
 **Relationships:**
 - One `Users` → Many `Bookings`
